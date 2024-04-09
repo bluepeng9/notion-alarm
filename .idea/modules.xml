@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/notion-alarm/notion-alarm.iml" filepath="$PROJECT_DIR$/notion-alarm/notion-alarm.iml" />
       <module fileurl="file://$PROJECT_DIR$/notion-block-alarm.iml" filepath="$PROJECT_DIR$/notion-block-alarm.iml" />
     </modules>
   </component>
